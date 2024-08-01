@@ -17,3 +17,8 @@ I am learning [Web Development](https://www.youtube.com/playlist?list=PLSH9gf0XE
 # skills to learn
 - HTML
 - CSS
+- Javascript
+- React
+- Node
+- Express
+- Mongo Db
